@@ -7,7 +7,7 @@ r"""
    /_\      \ V  V /| | | | | |_) | | | | \__ \ | | || ||  \_| || |_| |
   /___\      \_/\_/ |_|_| |_| .__/|_| |_|_|___/_| |_||_||_|\___||___  |
  /     \                    | |                                  ___| |
-                            |_|  Version {}                    |_____|
+                            |_|  Version {}                     |_____|
 """
 
 
@@ -134,9 +134,9 @@ NAME = "wifiphishing"
 AUTHOR = "ryvana"
 AUTHOR_EMAIL = "sryvana123@gmail.com"
 URL = "https://github.com/ryvanasuthelie/WifiPhishing"
-DESCRIPTION = "Automated phishing attacks against Wi-Fi networks"
+DESCRIPTION = "Serangan Phishing Otomatis Pada Jaringan Wi-Fi"
 LICENSE = "GPL"
-KEYWORDS = ["wifiphisher", "evil", "twin", "phishing"]
+KEYWORDS = ["wifiphishing", "evil", "twin", "phishing"]
 PACKAGES = find_packages(exclude=["docs", "tests"])
 INCLUDE_PACKAGE_DATA = True
 VERSION = "1.4"
